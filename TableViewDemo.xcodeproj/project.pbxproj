@@ -13,6 +13,7 @@
 		7DE11B112010EB6600BECF59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DE11B102010EB6600BECF59 /* Assets.xcassets */; };
 		7DE11B142010EB6600BECF59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DE11B122010EB6600BECF59 /* LaunchScreen.storyboard */; };
 		7DE11B1C2010ED4F00BECF59 /* DataItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE11B1B2010ED4F00BECF59 /* DataItem.swift */; };
+		7DE11B1E2010FD7E00BECF59 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 7DE11B1D2010FD7D00BECF59 /* images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7DE11B132010EB6600BECF59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7DE11B152010EB6600BECF59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7DE11B1B2010ED4F00BECF59 /* DataItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataItem.swift; sourceTree = "<group>"; };
+		7DE11B1D2010FD7D00BECF59 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				7DE11B1B2010ED4F00BECF59 /* DataItem.swift */,
 				7DE11B102010EB6600BECF59 /* Assets.xcassets */,
 				7DE11B122010EB6600BECF59 /* LaunchScreen.storyboard */,
+				7DE11B1D2010FD7D00BECF59 /* images */,
 				7DE11B152010EB6600BECF59 /* Info.plist */,
 			);
 			path = TableViewDemo;
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DE11B1E2010FD7E00BECF59 /* images in Resources */,
 				7DE11B142010EB6600BECF59 /* LaunchScreen.storyboard in Resources */,
 				7DE11B112010EB6600BECF59 /* Assets.xcassets in Resources */,
 				7DE11B0F2010EB6600BECF59 /* Main.storyboard in Resources */,

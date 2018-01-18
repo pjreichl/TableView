@@ -8,8 +8,18 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class TableViewController: UIViewController {
+    
+    @IBOutlet weak var tableView: UITableView!
+    
+    extension TableViewController: UITableViewDataSource {
+        
+    }
+    
+    
+    extension TableViewController: UITableViewDelegate {
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
